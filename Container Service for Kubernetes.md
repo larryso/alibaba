@@ -1,0 +1,2 @@
+# Container Service for Kubernetes
+Container Service for Kubernetes (ACK) is one of the first services to pass the Certified Kubernetes Conformance Program. ACK provides high-performance management services for containerized applications. You can manage enterprise-level containerized applications throughout the application lifecycle. This service allows you to run containerized applications in the cloud in an efficient manner.

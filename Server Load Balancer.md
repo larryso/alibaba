@@ -1,0 +1,2 @@
+# Server Load Balancer
+Server Load Balancer (SLB) distributes network traffic across groups of backend servers to improve the service capability and application availability. It provides functions as a reverse proxy at Layer 7（ALB）and load balancing services at Layer 4 （CLB）.

@@ -1,0 +1,2 @@
+# VPN Gateway
+VPN Gateway is a network connection service that securely and reliably connects enterprise data centers, office networks, and Internet clients to virtual private clouds (VPCs) of Alibaba Cloud through encrypted and private channels.
